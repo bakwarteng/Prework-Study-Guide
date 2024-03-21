@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+<paste git@github.com:bakwarteng/Prework-Study-Guide-BAK.git>
+git clone<git@github.com:bakwarteng/Prework-Study-Guide-BAK.git>
+
+
