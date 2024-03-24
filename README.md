@@ -2,7 +2,7 @@
 
 A study guide for for UT bootcamp pre-work March 2024
 
-# <Beth-Ann's Study Guide>
+# Beth-Ann's Study Guide
 
 ## Description
 
@@ -20,11 +20,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#NA)
 - [License](#MIT)
 
-## Installation
+# Installation
 
 NA
 
-## Usage
+# Usage
 
 to keep track of my notes during UT bootcamp prework and actual course. It is still a work in progress, Also to make updates and document them.
 
